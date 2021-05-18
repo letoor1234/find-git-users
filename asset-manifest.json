@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/find-git-users/static/css/main.6ef36f76.chunk.css",
+    "main.js": "/find-git-users/static/js/main.ad620e3b.chunk.js",
+    "main.js.map": "/find-git-users/static/js/main.ad620e3b.chunk.js.map",
+    "runtime-main.js": "/find-git-users/static/js/runtime-main.1db6ce11.js",
+    "runtime-main.js.map": "/find-git-users/static/js/runtime-main.1db6ce11.js.map",
+    "static/js/2.46617b5c.chunk.js": "/find-git-users/static/js/2.46617b5c.chunk.js",
+    "static/js/2.46617b5c.chunk.js.map": "/find-git-users/static/js/2.46617b5c.chunk.js.map",
+    "static/js/3.ee077d9a.chunk.js": "/find-git-users/static/js/3.ee077d9a.chunk.js",
+    "static/js/3.ee077d9a.chunk.js.map": "/find-git-users/static/js/3.ee077d9a.chunk.js.map",
+    "index.html": "/find-git-users/index.html",
+    "static/css/main.6ef36f76.chunk.css.map": "/find-git-users/static/css/main.6ef36f76.chunk.css.map",
+    "static/js/2.46617b5c.chunk.js.LICENSE.txt": "/find-git-users/static/js/2.46617b5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db6ce11.js",
+    "static/js/2.46617b5c.chunk.js",
+    "static/css/main.6ef36f76.chunk.css",
+    "static/js/main.ad620e3b.chunk.js"
+  ]
+}
